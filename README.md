@@ -23,6 +23,10 @@
 
 *The C++20 AM is pretty cool.*
 
+#You can contact me at:#
+decepticond on Discord
+decepticond on mastodon
+
 [![My Skills](https://skillicons.dev/icons?i=rust,c,powershell,arch,apple,html,css,wasm,arduino,aws,bash,blender,debian,discord,elixir,flask,github,kali,linux,mastodon,mysql,nginx,nix,nodejs,ocaml,php,py,react,replit,robloxstudio,ubuntu,vim,vscode,windows)](https://skillicons.dev)
 <!--
 **Lazaurus/Lazaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
